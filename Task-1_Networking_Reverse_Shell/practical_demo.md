@@ -1,4 +1,3 @@
-
 # Practical Demo – Reverse Shell on Kali Linux
 
 ## 🔧 Setup
@@ -14,4 +13,3 @@
 - Run the following command:
   ```bash
   nc -nvlp 4444
-
