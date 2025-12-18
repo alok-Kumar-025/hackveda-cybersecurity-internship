@@ -1,2 +1,25 @@
-# hackveda-cybersecurity-internship
-Proof of execution for Hackveda Cybersecurity Internship — Networking, Reverse Shell, VAPT, and hands-on security tasks. Publicly verifiable. No certificates — only real work.
+# 🔒 Hackveda Cybersecurity Internship – Alok Kumar
+
+This repository contains **public, verifiable proof of execution** for all tasks completed during my Cybersecurity Internship at Hackveda.
+
+> 🎯 **No certificates. No promises. Only real work.**
+
+## 📌 Completed Tasks
+
+| Task | Description | Status |
+|------|-------------|--------|
+| Task 1 | Concepts of Networking & Reverse Shell | Progress |
+| Task 2 | — | Not Assigned |
+| ... | ... | ... |
+
+---
+
+## 🔍 Why This Repo?
+- Shows **hands-on understanding** of core cybersecurity concepts  
+- All demos done on **Kali Linux** (ethical & legal – localhost only)  
+- Includes **theory + practical + screenshots** for full transparency  
+- Built to meet Hackveda’s standard: **"Proof, not promises"**
+
+---
+
+🔗 **GitHub doesn’t lie. Execution does the talking.**
