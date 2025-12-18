@@ -8,18 +8,16 @@ This repository contains **public, verifiable proof of execution** for all tasks
 
 | Task | Description | Status |
 |------|-------------|--------|
-| Task 1 | Concepts of Networking & Reverse Shell | Progress |
-| Task 2 | — | Not Assigned |
+| ✅ Task 1 | Concepts of Networking & Reverse Shell | Progress |
 | ... | ... | ... |
 
 ---
 
-## 🔍 Why This Repo?
-- Shows **hands-on understanding** of core cybersecurity concepts  
-- All demos done on **Kali Linux** (ethical & legal – localhost only)  
-- Includes **theory + practical + screenshots** for full transparency  
-- Built to meet Hackveda’s standard: **"Proof, not promises"**
+## 🔍 About This Repo
+- All demonstrations done on **Kali Linux** (ethical, legal, localhost-only)
+- Each task includes: **theory + practical steps + screenshots + security insights**
+- Built to align with Hackveda’s core principle: **“Proof, not promises”**
 
 ---
 
-🔗 **GitHub doesn’t lie. Execution does the talking.**
+🔗 **Execution speaks louder than certificates.**
