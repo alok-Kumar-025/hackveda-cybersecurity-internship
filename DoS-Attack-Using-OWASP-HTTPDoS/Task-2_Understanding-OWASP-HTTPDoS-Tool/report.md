@@ -29,4 +29,4 @@ OWASP HTTPDoS is described as an open-source Denial of Service (DoS) testing too
 - 1023 concurrent connections established
 - Over 169,000 requests sent successfully
 - Server remained up but under heavy load — demonstrating DoS impact
-- 🔒 Ethical Compliance: All testing performed on localhost only. No external systems targeted.
+> 🔒 Ethical Compliance: All testing performed on localhost only. No external systems targeted.
