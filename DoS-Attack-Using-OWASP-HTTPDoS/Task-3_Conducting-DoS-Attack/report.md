@@ -14,4 +14,4 @@ Performed **Slow HTTP Header DoS attack** using `slowhttptest` on localhost (`ht
 
 > 🔒 Ethical Note: All testing done on localhost. No external systems targeted.
 
-![Slow HTTP Test Output](slowhttptest-success.png)
+![Slow HTTP Test Output - Service Available: NO](slowhttptest-success.png)
