@@ -8,6 +8,7 @@ This repository contains public, verifiable proof of execution for all tasks com
 |------|-------------|--------|  
 | ✅ Task 1 | Concepts of Networking & Reverse Shell | Completed |
 | ✅ Task 2 | Denial of Service Attack using OWASP HTTPDos Tool | Completed |
+| ✅ Task 3 | _________________________________ | Wait |
 
 🔍 About This Repo  
 All demonstrations done on Kali Linux (ethical, legal, localhost-only)  
