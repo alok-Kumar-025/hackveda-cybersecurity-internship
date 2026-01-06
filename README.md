@@ -15,7 +15,5 @@ All demonstrations done on Kali Linux (ethical, legal, localhost-only)
 Each task includes: theory + practical steps + screenshots + security insights  
 Built to align with Hackveda’s core principle: **“Proof, not promises”**
 
-📁 [DoS Attack Module](DoS-Attack-Using-OWASP-HTTPDoS/) — progress DoS attack & mitigation proof
-
 🔗 Execution speaks louder than certificates.
 
