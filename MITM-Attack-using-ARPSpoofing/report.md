@@ -23,12 +23,12 @@
 
 5. Installed required security tools:
   ```bash
-  sudo apt install dsniff wireshark -y
+     sudo apt install dsniff wireshark -y
   ```
 
 6. Verified that ettercap is pre-installed (used as the ARP spoofing tool, standard in Parrot OS):
   ```bash
-  ettercap -h
+     ettercap -h
   ```
 
 7. Set up the victim environment on Windows 11:
